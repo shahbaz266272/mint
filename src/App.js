@@ -36,9 +36,9 @@ function App() {
           <div className="ForCenter py-5">
             <div className="content">
               {/* <Container> */}
-              <Row className="left">
-                <Col lg={6} md={6} sm={12}>
-                  <div>
+              <Row className="left d-flex flex-row">
+                <Col lg={6} md={6} sm={6}>
+                  <div className="ins">
                     <div className="text-white">
                       <h4 className="forBrownBG px-2 py-1">INSTRUCTIONS</h4>
                     </div>
