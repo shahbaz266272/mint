@@ -9,7 +9,7 @@
   }
   .ForCenter {
     position: absolute;
-    top: 41%;
+    top: 33%;
     left: 50%;
     transform: translate(-50%);
     background-image: url("../src/Images/Background.png");
