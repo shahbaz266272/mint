@@ -32,11 +32,10 @@ function App() {
                 className="PirateCard"
               />
             </div>
-          </center>
           <div className="ForCenter py-5">
             <div className="content">
               {/* <Container> */}
-              <Row className="left d-flex flex-row">
+              <Row className="left ">
                 <Col lg={6} md={6} sm={6}>
                   <div className="ins">
                     <div className="text-white">
@@ -86,6 +85,8 @@ function App() {
               {/* </Container> */}
             </div>
           </div>
+          </center>
+
         </Container>
       </div>
     </div>
