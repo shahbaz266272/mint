@@ -1,3 +1,37 @@
+@media only screen and (min-width: 1440px) {
+  .DPLogo {
+    width: 200px;
+    margin-top: 2rem;
+  }
+  .MINTNOW,
+  .PirateCard {
+    width: 25%;
+  }
+  .ForCenter {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url("../src/Images/Background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .forPosition {
+    z-index: 10;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+  }
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
 /* @media only screen and (max-width: 1440px) {
   .DPLogo {
     width: 180px;
@@ -85,7 +119,7 @@
 /* / */
 /* / */
 /* / */
-@media screen and (max-width: 768px) and (min-width: 431px){
+@media screen and (max-width: 768px) and (min-width: 431px) {
   .DPLogo {
     width: 120px;
     margin-top: 0rem;
@@ -129,7 +163,7 @@
   .TotalETH {
     margin: 0.5rem 0rem !important;
   }
-  .for425{
+  .for425 {
     margin-left: 2rem;
   }
   .ETH {
@@ -156,10 +190,10 @@
   .icons {
     font-size: 13px;
   }
-  .ins{
+  .ins {
     margin-bottom: 5rem;
   }
-  .Right{
+  .Right {
     position: absolute;
     left: 7rem;
     top: 2rem;
@@ -172,7 +206,7 @@
 /* / */
 /* / */
 @media only screen and (max-width: 430px) {
-  .left{
+  .left {
     flex-direction: column-reverse;
   }
   .forBG {
