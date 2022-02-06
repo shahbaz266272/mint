@@ -1,0 +1,242 @@
+/* @media only screen and (max-width: 1440px) {
+  .DPLogo {
+    width: 180px;
+    margin-top: 2rem;
+  }
+  .MINTNOW,
+  .PirateCard {
+    width: 25%;
+  }
+  .ForCenter {
+    position: absolute;
+    top: 41%;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url("../src/Images/Background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .forPosition {
+     z-index: 10;
+    right: 3.5rem;
+   }
+} */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+@media only screen and (max-width: 1024px) {
+  .DPLogo {
+    width: 150px;
+    margin-top: 0rem;
+  }
+  .Lorem {
+    font-size: 18px;
+  }
+  .MINTNOW,
+  .PirateCard {
+    width: 23%;
+  }
+  .forPosition {
+    /* position: relative; */
+    z-index: 10;
+    right: 0rem;
+    top: 9rem;
+  }
+  .ForCenter {
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url("../src/Images/Background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  .forBrownBG {
+    margin-left: 2rem;
+    margin-top: 2rem;
+    font-size: 20px;
+  }
+  .community {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    width: 80%;
+    /* left: 50px; */
+  }
+  /* .TotalETH {
+    margin-top: 0.5 !important;
+  } */
+  .ETH {
+    font-size: 22px;
+  }
+  .forBrownBGX,
+  .foramount {
+    font-size: 16px;
+  }
+}
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+@media only screen and (max-width: 768px) {
+  .DPLogo {
+    width: 120px;
+    margin-top: 0rem;
+  }
+  .Lorem {
+    font-size: 14px;
+  }
+  .MINTNOW,
+  .PirateCard {
+    width: 22%;
+  }
+  .forPosition {
+    z-index: 10;
+    right: 0rem;
+    top: 7rem;
+  }
+  .ForCenter {
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url("../src/Images/Background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% !important;
+    width: 120% !important;
+  }
+  .forBrownBG {
+    margin-left: 1.5rem;
+    margin-top: 3.5rem;
+    font-size: 14px;
+  }
+  .community {
+    position: relative;
+    margin-top: 1rem;
+    /* margin-bottom: 0.5rem; */
+    width: 75%;
+    /* margin-left: 5rem; */
+  }
+  .TotalETH {
+    margin: 0.5rem 0rem !important;
+  }
+  .ETH {
+    font-size: 13px;
+  }
+  .forBrownBGX,
+  .foramount {
+    font-size: 13px;
+  }
+  .foramount {
+    margin-top: 0.5rem !important;
+  }
+  .forinput {
+    width: 30px;
+  }
+  .ForBGCOLOR {
+    margin: 0rem !important;
+    padding: 0 5px !important;
+  }
+  .icons {
+    font-size: 13px;
+  }
+}
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+/* / */
+@media only screen and (max-width: 425px) {
+  .left {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .forBG {
+    height: auto;
+  }
+  .DPLogo {
+    width: 100px;
+    margin-top: 0rem;
+    margin-bottom: 3rem;
+  }
+  .Lorem {
+    font-size: 12px;
+    margin-left: 0rem !important;
+  }
+  .MINTNOW,
+  .PirateCard {
+    width: 30%;
+  }
+  .forPosition {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -0.5rem;
+  }
+  .ForCenter {
+    position: relative;
+    transform: translate(-50%) rotate(90deg);
+    /* top: 100% !important; */
+    width: 100% !important;
+  }
+  .content {
+    transform: rotate(270deg);
+    text-align: center;
+  }
+  .forBrownBG {
+    margin-left: 0rem;
+    padding-top: 0rem;
+    font-size: 12px;
+  }
+
+  .community {
+    position: relative;
+    width: 35%;
+    margin-top: -2rem !important;
+    margin-bottom: 0.5rem;
+    /* margin-left: 8rem; */
+  }
+  .TotalETH {
+    margin: 0.5rem 0rem !important;
+    display: flex;
+    justify-content: center !important;
+  }
+  .ETH {
+    font-size: 13px;
+  }
+  .for425 {
+    margin-right: 1.5rem;
+  }
+  .forBrownBGX,
+  .foramount {
+    font-size: 12px;
+  }
+  .foramount {
+    margin-top: 0.5rem !important;
+    margin-right: 0.5rem;
+  }
+  .forinput {
+    width: 25px;
+    height: 25px;
+  }
+  .ForBGCOLOR {
+    margin: 0rem !important;
+    padding: 0px 5px !important;
+  }
+  .icons {
+    font-size: 13px;
+  }
+  .amountflex {
+    display: flex;
+    justify-content: center !important;
+  }
+}

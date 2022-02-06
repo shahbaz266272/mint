@@ -1,0 +1,78 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.forBG {
+  background-image: url("../src/Images/BlackBGImage.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  height: 100vh;
+}
+.DPLogo {
+  width: 180px;
+  padding-top: 2rem;
+}
+.ForCenter {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%);
+  background-image: url("../src/Images/Background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.MINTNOW,
+.PirateCard {
+  width: 25%;
+}
+.forPosition {
+  /* position: relative; */
+  z-index: 10;
+  right: 3.5rem;
+  top: 9.5rem;
+}
+.forBrownBG {
+  background-color: #452300;
+  display: inline-block;
+  font-weight: 700;
+  margin-left: 2.5rem;
+  margin-top: 1rem;
+}
+.ForBGCOLOR {
+  background-color: #452300;
+}
+.forBrownBGX {
+  background-color: #452300;
+  font-weight: 700;
+  border-radius: 7px;
+  border: 2px solid black;
+  color: white;
+}
+.forBrownBGX:hover {
+  background-color: transparent;
+  cursor: pointer;
+  border: 2px solid black;
+  color: #452300;
+}
+.colors {
+  color: #452300;
+}
+.community {
+  /* top: 10rem; */
+  width: 80%;
+  padding-bottom: 1rem;
+}
+.forinput {
+  width: 40px;
+}
+.ForBGCOLOR {
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+::placeholder {
+  color: brown;
+}
