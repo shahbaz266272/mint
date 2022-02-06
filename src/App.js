@@ -64,7 +64,7 @@ function App() {
                         <input
                           type="text"
                           className="forinput mx-1"
-                          placeholder="Mint"
+                          placeholder=""
                         />
 
                         <FontAwesomeIcon className="icons" icon={faMinus} />
