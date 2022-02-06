@@ -5,11 +5,11 @@
   }
   .MINTNOW,
   .PirateCard {
-    width: 25%;
+    width: 40%;
   }
   .ForCenter {
     position: absolute;
-    top: 30%;
+    top: 29%;
     left: 50%;
     transform: translate(-50%);
     background-image: url("../src/Images/Background.png");
